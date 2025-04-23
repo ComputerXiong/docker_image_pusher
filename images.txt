@@ -4,3 +4,4 @@ pgvector/pgvector:pg17
 minio/minio:RELEASE.2025-02-07T23-21-09Z
 nginx:1.26.3
 mysql:8.0.41
+ollama/ollama:0.3.0
